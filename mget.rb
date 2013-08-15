@@ -15,7 +15,7 @@ require 'fileutils'
 
 def dir()
   # change this to save the chapters to a fixed folder
-  return "/Users/d4rkie/tmp/"
+  return "tmp/"
 end
   
 
